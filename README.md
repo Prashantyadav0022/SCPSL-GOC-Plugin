@@ -14,3 +14,6 @@
   
   Omega核弹只能由GOC人员开启,倒计时结束后杀死所有人
   
+  管理员可以在控制台使用goc [玩家游戏Id] [编号] 来将玩家变成GOC人员(编号 0:指挥官,1:重装兵,2:士兵)
+
+  演示视频:https://www.bilibili.com/video/BV1Bn29BhE7p/
